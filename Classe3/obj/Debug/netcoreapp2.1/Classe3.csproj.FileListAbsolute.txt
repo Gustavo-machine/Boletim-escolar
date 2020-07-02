@@ -1,0 +1,11 @@
+C:\Users\Gustavo\Desktop\C#Exercicios\resolvidos\Classe3\Classe3\obj\Debug\netcoreapp2.1\Classe3.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\C#Exercicios\resolvidos\Classe3\Classe3\obj\Debug\netcoreapp2.1\Classe3.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\C#Exercicios\resolvidos\Classe3\Classe3\obj\Debug\netcoreapp2.1\Classe3.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\C#Exercicios\resolvidos\Classe3\Classe3\obj\Debug\netcoreapp2.1\Classe3.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\C#Exercicios\resolvidos\Classe3\Classe3\bin\Debug\netcoreapp2.1\Classe3.deps.json
+C:\Users\Gustavo\Desktop\C#Exercicios\resolvidos\Classe3\Classe3\bin\Debug\netcoreapp2.1\Classe3.runtimeconfig.json
+C:\Users\Gustavo\Desktop\C#Exercicios\resolvidos\Classe3\Classe3\bin\Debug\netcoreapp2.1\Classe3.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\C#Exercicios\resolvidos\Classe3\Classe3\bin\Debug\netcoreapp2.1\Classe3.dll
+C:\Users\Gustavo\Desktop\C#Exercicios\resolvidos\Classe3\Classe3\bin\Debug\netcoreapp2.1\Classe3.pdb
+C:\Users\Gustavo\Desktop\C#Exercicios\resolvidos\Classe3\Classe3\obj\Debug\netcoreapp2.1\Classe3.dll
+C:\Users\Gustavo\Desktop\C#Exercicios\resolvidos\Classe3\Classe3\obj\Debug\netcoreapp2.1\Classe3.pdb
